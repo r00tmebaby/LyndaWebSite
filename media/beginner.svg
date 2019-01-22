@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="-SVGS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Skill-Level-beginner">
+      <rect id="bar-1" class="bar-1" fill="#7D7D7D" x="-4" y="422" width="602" height="1205"></rect>
+      <rect id="bar-2" class="bar-2" fill="#D2D2D2" x="719" y="422" width="602" height="1205"></rect>
+      <rect id="bar-3" class="bar-3" fill="#D2D2D2" x="1442" y="422" width="602" height="1205"></rect>
+    </g>
+  </g>
+</svg>
