@@ -10,14 +10,6 @@ function config(){
 	return array("AES-128-CBC","//e//qwe.,k#$%EWERGFQT%$##W^%H00203\234tkeopkrfodk'd''>AS>D@!#%^$%*^()_",':');
 }
 
-function dur($file){
-   @require_once($_SERVER['DOCUMENT_ROOT']."/getid3/getid3.php");	
-   $getID3 = new getID3();
-   $fileinfo = $getID3->analyze($file);	
-   $height=$fileinfo;
-   return($height);
-}
-
 function clean_name($name){
 	$name = explode("_",$name);
 	return($name);	 
