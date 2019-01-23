@@ -1,11 +1,11 @@
 # LyndaWebSite
 Lynda Web is built to support Lynda Downloader and all videos to be displayed properly in a private library 
 
+This small web was especially created to support my <a href="https://github.com/r00tmebaby/Lynda_Downloader">Lynda Downloader python script</a> and all downloaded videos to be properly displayed on it.
+
 <image src="https://i.gyazo.com/9c01bc69a8d90dcba2b0d6064b32230f.png"/>
 
 <image src="https://i.ibb.co/d2x95Y9/1.png"/>
-
-This small web was especially created to support my Lynda Downloader python script and all downloaded videos to be properly displayed on it.
 
 # Functionalities
 Built with bootstrap framework, Ajax and PHP back-end the website is very responsive and fast. It will display your favourite and freshly downloaded courses for a private offline study with the excercise files and the their information.
